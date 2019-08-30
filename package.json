@@ -1,6 +1,6 @@
 {
   "name": "@simonjolet/holidates",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SImonJolet/Node-CLI.git"
+    "url": "git+https://github.com/SImonJolet/CLI-country-list.git"
   },
   "author": "simon jolet",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SImonJolet/Node-CLI/issues"
+    "url": "https://github.com/SImonJolet/CLI-country-list/issues"
   },
-  "homepage": "https://github.com/SImonJolet/Node-CLI#readme",
+  "homepage": "https://github.com/SImonJolet/Cli-country-list#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "country-list": "^2.2.0",
